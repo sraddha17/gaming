@@ -1,70 +1,48 @@
-Thanks for your interest on contributing to this repo
-=====================================================
+ ## HOW TO CONTRIBUTE ? 👷 
 
-To keep things simple and organized, we need to keep some basic rules when adding new links:
+**1.** Fork [this](https://github.com/Ayushparikh-code/Web-dev-mini-projects) repository.
 
-- Make sure the link you are adding is not already added
-- Make sure the link is relevant to this repo. We are focusing on game development here.
-- Make sure the list you are adding is kept alphabetically ordered. This make it easier to find the links
-- Be nice, be cool, and we will always :heart: you!
+**2.** Clone the forked repository.
 
+```terminal
+git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects 
+```
 
-:)
+**3.** Navigate to the project directory.
 
+```terminal
+cd Web-dev-mini-projects
+```
 
-Original Contributors from https://github.com/ellisonleao/magictools
---------
-@ellisonleao,
-@Zolomon,
-@Kavex,
-@ReadmeCritic,
-@JoseFaeti,
-@williamd1k0,
-@gnuwilliam,
-@Jarvizx,
-@StuffBySpencer,
-@rickyah,
-@rex64,
-@Lechindianer,
-@Fortyseven,
-@icodeforlove,
-@dogancelik,
-@abhishekjiitr,
-@drabiter,
-@englercj,
-@felipebueno,
-@Cristy94,
-@Nax,
-@hzoo,
-@kotajacob,
-@JulienGenoud,
-@xeBuz,
-@thatType,
-@alltom,
-@oostap,
-@vladimir-vovk,
-@the-shank,
-@ravedragon,
-@rickboerebach,
-@shakiba,
-@leereilly,
-@StuartNZ,
-@raphamorim,
-@PxlBuzzard,
-@melissaford,
-@nanexcool,
-@kanshi,
-@Tiago-Ling,
-@csprance,
-@icecreammatt,
-@slackmoehrle,
-@ilexp,
-@pra85,
-@lawlessc,
-@awesome-bot,
-@Phonbopit,
-@Yonaba,
-@liam-middlebrook
+**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE web-dev-mini-projects & Add your project files (eg: index.html ,style.css, script.js) inside that folder
+<br>
 
+**5.**  Also Add a README file in your project folder which consists of Description/screenshots about your project !
+          
+ 
+<br>
 
+**6.** Create a new branch.
 
+```terminal
+git checkout -b <your_branch_name>
+```
+
+**7.** Add & Commit your changes.
+
+```terminal
+  git add .
+  git commit -m "<your_commit_message>"
+```
+
+**7.** Push your local branch to the remote repository.
+
+```terminal
+git push -u origin <your_branch_name>
+```
+
+**8.** Create a Pull Request!
+
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/Ayushparikh-code/Web-dev-mini-projects) project
+
+<br>
